@@ -15,7 +15,6 @@ React (front end), Node.js and Express (back end), MySQL (database, 3NF).
 database/   scm_database.sql  (builds all 18 tables, a stock view and sample data)
 backend/    Express API (src/, scripts/)
 frontend/   React app (Vite): screens for every role
-docs/       ER diagram and other design diagrams
 ```
 
 ## How to run (first time)
